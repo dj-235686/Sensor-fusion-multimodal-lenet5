@@ -10,7 +10,7 @@ This repository implements multi-image shape classification (pentagons, circles,
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 - **Objective**: Classify geometric shapes by combining information across multiple input images.
 - **Core Architecture**: LeNet-5 Convolutional Neural Network.
@@ -21,7 +21,7 @@ This repository implements multi-image shape classification (pentagons, circles,
 
 ---
 
-## ⚙️ Preprocessing & Methodology
+##  Preprocessing & Methodology
 
 ### 1. Data Preprocessing
 - **Resizing**: Images are standardized to $32 \times 32$ pixels.
